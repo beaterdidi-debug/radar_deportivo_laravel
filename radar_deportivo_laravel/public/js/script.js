@@ -1,0 +1,1 @@
+document.querySelector('#newsGrid').textContent='Contenido de noticias';
